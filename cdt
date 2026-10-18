@@ -1,0 +1,24 @@
+return {
+    en = {},
+
+    es = {
+    ["Made by Nexus."] = "Hecho por Nexus.",
+    ["Join the Discord server.."] = "Únete al servidor de Discord..",
+    ["Unlock Admin options on Discord..."] = "Desbloquea opciones de Administrador en Discord...",
+    ["Thank you for using Hexagon!"] = "¡Gracias por usar Hexagon!",
+    },
+
+    pt = {
+    ["Made by Nexus."] = "Feito por Nexus.",
+    ["Join the Discord server.."] = "Entre no servidor do Discord..",
+    ["Unlock Admin options on Discord..."] = "Desbloqueie opções de Admin no Discord...",
+    ["Thank you for using Hexagon!"] = "Obrigado por usar Hexagon!",
+    },
+
+    id = {
+    ["Made by Nexus."] = "Dibuat oleh Nexus.",
+    ["Join the Discord server.."] = "Bergabunglah dengan server Discord..",
+    ["Unlock Admin options on Discord..."] = "Buka opsi Admin di Discord...",
+    ["Thank you for using Hexagon!"] = "Terima kasih telah menggunakan Hexagon!",
+    }
+}
